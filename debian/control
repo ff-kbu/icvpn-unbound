@@ -1,0 +1,10 @@
+Source: icvpn-unbound
+Priority: optional
+Standards-Version: 2.3.3
+Section: net
+Maintainer: Freifunk-KBU <jan@jluehr.de>
+
+Package: icvpn-unbound
+Architecture: any
+Section: net
+Description: Intercity-VPN DNS Forwarding configuration for unbound

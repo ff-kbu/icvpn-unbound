@@ -1,0 +1,8 @@
+Package: icvpn-unbound
+Version: 1.0
+Architecture: amd64
+Maintainer: Freifunk-KBU <jan@jluehr.de>
+Installed-Size: 37
+Section: net
+Priority: optional
+Description: Intercity-VPN DNS Forwarding configuration for unbound
